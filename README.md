@@ -1,1 +1,1 @@
-# webpack_ced101
+# webpack_ced101是練習webpack用的GIT專案
